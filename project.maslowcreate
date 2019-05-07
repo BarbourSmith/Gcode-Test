@@ -10,6 +10,125 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 93,
+                    "y": 67,
+                    "uniqueID": 190111,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 260,
+                    "y": 67,
+                    "uniqueID": 206395,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 109,
+                    "y": 278,
+                    "uniqueID": 591869,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 285,
+                    "y": 194,
+                    "uniqueID": 543076,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 450,
+                    "y": 164,
+                    "uniqueID": 550392,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 633,
+                    "y": 197,
+                    "uniqueID": 956837,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 731050",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 367968",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 194221",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Gcode",
+                    "name": "Gcode",
+                    "x": 727,
+                    "y": 84,
+                    "uniqueID": 223498,
+                    "ioValues": [
+                        {
+                            "name": "tool size",
+                            "ioValue": 5.35
+                        },
+                        {
+                            "name": "passes",
+                            "ioValue": 6
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 951,
@@ -17,7 +136,49 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 190111,
+                    "ap2ID": 206395
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 367968",
+                    "ap1ID": 206395,
+                    "ap2ID": 956837
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 591869,
+                    "ap2ID": 543076
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 543076,
+                    "ap2ID": 550392
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 731050",
+                    "ap1ID": 550392,
+                    "ap2ID": 956837
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 956837
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 956837,
+                    "ap2ID": 223498
+                }
+            ],
             "fileTypeVersion": 1
         }
     ]
