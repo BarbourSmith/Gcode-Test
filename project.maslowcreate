@@ -122,8 +122,8 @@
                 {
                     "atomType": "ExtractLayout",
                     "name": "Extract Layout",
-                    "x": 705,
-                    "y": 215,
+                    "x": 704,
+                    "y": 213,
                     "uniqueID": 162863,
                     "ioValues": []
                 },
