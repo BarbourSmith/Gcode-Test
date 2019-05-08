@@ -120,14 +120,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "ExtractLayout",
-                    "name": "Extract Layout",
-                    "x": 704,
-                    "y": 213,
-                    "uniqueID": 162863,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 799.1927346115035,
@@ -199,12 +191,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 473781,
                     "ap2ID": 113888
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 113888,
-                    "ap2ID": 162863
                 }
             ],
             "fileTypeVersion": 1
