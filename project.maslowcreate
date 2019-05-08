@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 540.3632694248233,
-                    "y": 102.16952573158426,
+                    "x": 477,
+                    "y": 90,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
@@ -110,6 +110,22 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Tag",
+                    "name": "Add Tag",
+                    "x": 568,
+                    "y": 182,
+                    "uniqueID": 113888,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "ExtractLayout",
+                    "name": "Extract Layout",
+                    "x": 705,
+                    "y": 215,
+                    "uniqueID": 162863,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Gcode",
@@ -131,8 +147,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 938.8244197780019,
-                    "y": 164.60645812310796,
+                    "x": 941,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -177,6 +193,18 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 473781
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 473781,
+                    "ap2ID": 113888
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 113888,
+                    "ap2ID": 162863
                 }
             ],
             "fileTypeVersion": 1
