@@ -132,7 +132,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 945,
-                    "y": 155.5,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -160,12 +160,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 543076,
                     "ap2ID": 550392
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "2D shape 194221",
-                    "ap1ID": 550392,
-                    "ap2ID": 956837
                 },
                 {
                     "ap1Name": "geometry",
