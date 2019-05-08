@@ -110,8 +110,8 @@
                 {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 664,
-                    "y": 86,
+                    "x": 710,
+                    "y": 81,
                     "uniqueID": 223498,
                     "ioValues": [
                         {
@@ -128,7 +128,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 945,
-                    "y": 164,
+                    "y": 152,
                     "ioValues": []
                 }
             ],
