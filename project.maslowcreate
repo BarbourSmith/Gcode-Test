@@ -12,8 +12,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 93,
-                    "y": 67,
+                    "x": 116.00849256900213,
+                    "y": 126.1592356687898,
                     "uniqueID": 190111,
                     "ioValues": [
                         {
@@ -48,7 +48,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 20
+                            "ioValue": 10
                         },
                         {
                             "name": "max segment size",
