@@ -48,7 +48,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 20
                         },
                         {
                             "name": "max segment size",
@@ -59,8 +59,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 263.9193205944798,
-                    "y": 194.31422505307856,
+                    "x": 261.0191082802548,
+                    "y": 189.96390658174099,
                     "uniqueID": 543076,
                     "ioValues": [
                         {
