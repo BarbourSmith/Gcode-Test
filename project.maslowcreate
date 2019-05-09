@@ -114,8 +114,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 648,
-                    "y": 202,
+                    "x": 662.383641674781,
+                    "y": 227.44498539435247,
                     "uniqueID": 113888,
                     "ioValues": []
                 },
@@ -137,10 +137,18 @@
                     ]
                 },
                 {
+                    "atomType": "ExtractLayout",
+                    "name": "Extract Layout",
+                    "x": 924.410905550146,
+                    "y": 266.01752677702046,
+                    "uniqueID": 702011,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 151,
+                    "x": 977,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -191,6 +199,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 473781,
                     "ap2ID": 113888
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 113888,
+                    "ap2ID": 702011
                 }
             ],
             "fileTypeVersion": 1
