@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 445,
-                    "y": 220,
+                    "x": 460,
+                    "y": 249,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 722,
-                    "y": 145,
+                    "x": 651,
+                    "y": 111,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
@@ -114,8 +114,8 @@
                 {
                     "atomType": "Tag",
                     "name": "Add Tag",
-                    "x": 889,
-                    "y": 242,
+                    "x": 894,
+                    "y": 236,
                     "uniqueID": 113888,
                     "ioValues": []
                 },
@@ -123,7 +123,7 @@
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 935,
-                    "y": 53,
+                    "y": 54,
                     "uniqueID": 223498,
                     "ioValues": [
                         {
