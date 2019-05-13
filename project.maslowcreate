@@ -29,8 +29,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 83,
-                    "y": 202,
+                    "x": 84,
+                    "y": 204,
                     "uniqueID": 411117,
                     "ioValues": [
                         {
@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 458,
-                    "y": 217,
+                    "x": 454,
+                    "y": 207,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
