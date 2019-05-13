@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 461,
-                    "y": 253,
+                    "x": 418,
+                    "y": 264,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 673.4520037278658,
-                    "y": 169.3178005591799,
+                    "x": 591,
+                    "y": 131,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
