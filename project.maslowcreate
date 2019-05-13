@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 100
                         },
                         {
                             "name": "max segment size",
@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 454,
-                    "y": 207,
+                    "x": 445,
+                    "y": 176,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 592,
-                    "y": 81,
+                    "x": 659,
+                    "y": 37,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
