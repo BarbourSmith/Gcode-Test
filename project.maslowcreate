@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 100
+                            "ioValue": 10
                         },
                         {
                             "name": "max segment size",
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 645,
-                    "y": 141,
+                    "x": 677.2712022367195,
+                    "y": 137.49114631873252,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
@@ -139,7 +139,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
+                    "x": 1023,
                     "y": 164,
                     "ioValues": []
                 }
