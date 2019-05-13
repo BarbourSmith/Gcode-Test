@@ -30,12 +30,12 @@
                     "atomType": "Circle",
                     "name": "Circle",
                     "x": 84,
-                    "y": 204,
+                    "y": 221,
                     "uniqueID": 411117,
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 100
+                            "ioValue": 10
                         },
                         {
                             "name": "max segment size",
@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 445,
-                    "y": 176,
+                    "x": 423,
+                    "y": 156,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 659,
-                    "y": 37,
+                    "x": 591,
+                    "y": 89,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
