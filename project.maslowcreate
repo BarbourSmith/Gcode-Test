@@ -70,6 +70,19 @@
                     ]
                 },
                 {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 425,
+                    "y": 34,
+                    "uniqueID": 230110,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 418,
@@ -93,10 +106,14 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 603,
-                    "y": 130,
+                    "x": 583,
+                    "y": 120,
                     "uniqueID": 473781,
                     "ioValues": [
+                        {
+                            "name": "2D shape 623544",
+                            "ioValue": 10
+                        },
                         {
                             "name": "2D shape 870803",
                             "ioValue": 10
@@ -107,6 +124,10 @@
                         },
                         {
                             "name": "2D shape 623544",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 536361",
                             "ioValue": 10
                         }
                     ]
@@ -167,6 +188,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "2D shape 944142",
                     "ap1ID": 206395,
+                    "ap2ID": 473781
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "2D shape 623544",
+                    "ap1ID": 230110,
                     "ap2ID": 473781
                 },
                 {
