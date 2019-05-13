@@ -46,19 +46,6 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 273,
-                    "y": 70,
-                    "uniqueID": 206395,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
                     "x": 264,
                     "y": 220,
                     "uniqueID": 543076,
@@ -70,10 +57,23 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 336,
+                    "y": 80,
+                    "uniqueID": 206395,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 450,
-                    "y": 228,
+                    "x": 461,
+                    "y": 253,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 637,
-                    "y": 109,
+                    "x": 634,
+                    "y": 148,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
@@ -112,14 +112,6 @@
                     ]
                 },
                 {
-                    "atomType": "Tag",
-                    "name": "Add Tag",
-                    "x": 897,
-                    "y": 202,
-                    "uniqueID": 113888,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 932,
@@ -135,6 +127,14 @@
                             "ioValue": 6
                         }
                     ]
+                },
+                {
+                    "atomType": "Tag",
+                    "name": "Add Tag",
+                    "x": 905,
+                    "y": 238,
+                    "uniqueID": 113888,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -159,15 +159,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 944142",
-                    "ap1ID": 206395,
-                    "ap2ID": 473781
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 543076,
                     "ap2ID": 550392
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "2D shape 944142",
+                    "ap1ID": 206395,
+                    "ap2ID": 473781
                 },
                 {
                     "ap1Name": "geometry",
