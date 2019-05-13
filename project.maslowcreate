@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 100
                         },
                         {
                             "name": "max segment size",
@@ -59,8 +59,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 251,
-                    "y": 216,
+                    "x": 245,
+                    "y": 200,
                     "uniqueID": 543076,
                     "ioValues": [
                         {
@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 423,
-                    "y": 156,
+                    "x": 391,
+                    "y": 153,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 591,
-                    "y": 89,
+                    "x": 682,
+                    "y": 22,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
