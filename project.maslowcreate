@@ -46,8 +46,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 240.66599394550957,
-                    "y": 65.63931888544892,
+                    "x": 251,
+                    "y": 60,
                     "uniqueID": 206395,
                     "ioValues": [
                         {
@@ -59,8 +59,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 245,
-                    "y": 200,
+                    "x": 241,
+                    "y": 239,
                     "uniqueID": 543076,
                     "ioValues": [
                         {
@@ -72,8 +72,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 391,
-                    "y": 153,
+                    "x": 383,
+                    "y": 164,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 682,
-                    "y": 22,
+                    "x": 571,
+                    "y": 108,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
