@@ -93,8 +93,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 573,
-                    "y": 108,
+                    "x": 565,
+                    "y": 118,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
