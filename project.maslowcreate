@@ -35,7 +35,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 40
                         },
                         {
                             "name": "max segment size",
@@ -94,6 +94,10 @@
                             "ioValue": 10
                         },
                         {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
                             "name": "zDist",
                             "ioValue": 0
                         }
@@ -143,7 +147,7 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "yDist",
+                    "ap2Name": "geometry",
                     "ap1ID": 543076,
                     "ap2ID": 550392
                 },
