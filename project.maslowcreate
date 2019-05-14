@@ -125,10 +125,18 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 673,
+                    "y": 232,
+                    "uniqueID": 276438,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 639,
-                    "y": 48,
+                    "x": 813,
+                    "y": 70,
                     "uniqueID": 535974,
                     "ioValues": [
                         {
@@ -140,14 +148,6 @@
                             "ioValue": 6
                         }
                     ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 673,
-                    "y": 232,
-                    "uniqueID": 276438,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -187,12 +187,6 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 206395,
                     "ap2ID": 276438
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 206395,
-                    "ap2ID": 535974
                 },
                 {
                     "ap1Name": "geometry",
