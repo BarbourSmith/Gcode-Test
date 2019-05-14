@@ -104,10 +104,18 @@
                     ]
                 },
                 {
+                    "atomType": "Union",
+                    "name": "Union",
+                    "x": 607,
+                    "y": 237,
+                    "uniqueID": 222116,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 583,
-                    "y": 120,
+                    "x": 688,
+                    "y": 89,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
@@ -119,18 +127,10 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "2D shape 322647",
+                            "name": "2D shape 806046",
                             "ioValue": 10
                         }
                     ]
-                },
-                {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 607,
-                    "y": 237,
-                    "uniqueID": 222116,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -156,7 +156,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1023,
+                    "x": 993,
                     "y": 164,
                     "ioValues": []
                 }
@@ -206,14 +206,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 473781
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 222116,
                     "ap2ID": 341734
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 473781
                 }
             ],
             "fileTypeVersion": 1
