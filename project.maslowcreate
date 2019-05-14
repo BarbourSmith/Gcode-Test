@@ -142,14 +142,6 @@
                     ]
                 },
                 {
-                    "atomType": "Tag",
-                    "name": "Add Tag",
-                    "x": 905,
-                    "y": 238,
-                    "uniqueID": 113888,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1023,
@@ -198,12 +190,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 473781
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 473781,
-                    "ap2ID": 113888
                 }
             ],
             "fileTypeVersion": 1
