@@ -125,18 +125,10 @@
                     ]
                 },
                 {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 673,
-                    "y": 232,
-                    "uniqueID": 276438,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 714,
-                    "y": 60,
+                    "x": 639,
+                    "y": 48,
                     "uniqueID": 535974,
                     "ioValues": [
                         {
@@ -148,6 +140,14 @@
                             "ioValue": 6
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 673,
+                    "y": 232,
+                    "uniqueID": 276438,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
