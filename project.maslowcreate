@@ -133,6 +133,23 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Gcode",
+                    "name": "Gcode",
+                    "x": 902,
+                    "y": 54,
+                    "uniqueID": 535974,
+                    "ioValues": [
+                        {
+                            "name": "tool size",
+                            "ioValue": 5.35
+                        },
+                        {
+                            "name": "passes",
+                            "ioValue": 6
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1009,
@@ -187,6 +204,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 473781
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 473781,
+                    "ap2ID": 535974
                 }
             ],
             "fileTypeVersion": 1
