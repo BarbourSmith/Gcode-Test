@@ -104,14 +104,6 @@
                     ]
                 },
                 {
-                    "atomType": "Intersection",
-                    "name": "Intersection",
-                    "x": 605.5015906680807,
-                    "y": 246.25662778366916,
-                    "uniqueID": 511832,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 688,
@@ -133,9 +125,17 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 673,
+                    "y": 232,
+                    "uniqueID": 276438,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 893,
+                    "x": 1009,
                     "y": 164,
                     "ioValues": []
                 }
@@ -169,7 +169,7 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
                     "ap1ID": 206395,
-                    "ap2ID": 511832
+                    "ap2ID": 276438
                 },
                 {
                     "ap1Name": "geometry",
@@ -181,7 +181,7 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 550392,
-                    "ap2ID": 511832
+                    "ap2ID": 276438
                 },
                 {
                     "ap1Name": "geometry",
