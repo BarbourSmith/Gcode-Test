@@ -104,11 +104,11 @@
                     ]
                 },
                 {
-                    "atomType": "Union",
-                    "name": "Union",
-                    "x": 607,
-                    "y": 237,
-                    "uniqueID": 222116,
+                    "atomType": "Intersection",
+                    "name": "Intersection",
+                    "x": 614,
+                    "y": 242,
+                    "uniqueID": 511832,
                     "ioValues": []
                 },
                 {
@@ -129,27 +129,6 @@
                         {
                             "name": "2D shape 806046",
                             "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 762,
-                    "y": 214,
-                    "uniqueID": 341734,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
                         }
                     ]
                 },
@@ -188,9 +167,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
+                    "ap2Name": "geometry2",
                     "ap1ID": 206395,
-                    "ap2ID": 222116
+                    "ap2ID": 511832
                 },
                 {
                     "ap1Name": "geometry",
@@ -200,15 +179,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
+                    "ap2Name": "geometry1",
                     "ap1ID": 550392,
-                    "ap2ID": 222116
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 222116,
-                    "ap2ID": 341734
+                    "ap2ID": 511832
                 },
                 {
                     "ap1Name": "geometry",
