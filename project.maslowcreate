@@ -106,8 +106,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 688,
-                    "y": 89,
+                    "x": 624,
+                    "y": 127,
                     "uniqueID": 473781,
                     "ioValues": [
                         {
@@ -135,8 +135,8 @@
                 {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 902,
-                    "y": 54,
+                    "x": 714,
+                    "y": 60,
                     "uniqueID": 535974,
                     "ioValues": [
                         {
@@ -190,6 +190,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 206395,
+                    "ap2ID": 535974
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "2D shape 870803",
                     "ap1ID": 550392,
                     "ap2ID": 473781
@@ -204,12 +210,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 473781
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 473781,
-                    "ap2ID": 535974
                 }
             ],
             "fileTypeVersion": 1
