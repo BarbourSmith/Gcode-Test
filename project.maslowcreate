@@ -3,19 +3,10 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 634,
-            "y": 213,
+            "x": 627,
+            "y": 183,
             "uniqueID": 545074,
-            "ioValues": [
-                {
-                    "name": "Shape 1",
-                    "ioValue": 10
-                },
-                {
-                    "name": "Shape 2",
-                    "ioValue": 10
-                }
-            ],
+            "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
@@ -29,10 +20,31 @@
                 {
                     "atomType": "Input",
                     "name": "Shape 2",
-                    "x": 43,
-                    "y": 182,
+                    "x": 44,
+                    "y": 215,
                     "uniqueID": 465131,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 443,
+                    "y": 145,
+                    "uniqueID": 436588,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 417234",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 623943",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "2D shape 203750",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -42,7 +54,25 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "2D shape 623943",
+                    "ap1ID": 697585,
+                    "ap2ID": 436588
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "2D shape 417234",
+                    "ap1ID": 465131,
+                    "ap2ID": 436588
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 436588
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -151,19 +181,10 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 634,
-                    "y": 213,
+                    "x": 627,
+                    "y": 183,
                     "uniqueID": 545074,
-                    "ioValues": [
-                        {
-                            "name": "Shape 1",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "Shape 2",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Gcode",
@@ -208,6 +229,23 @@
                     "ap2Name": "geometry",
                     "ap1ID": 543076,
                     "ap2ID": 550392
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape 2",
+                    "ap1ID": 206395,
+                    "ap2ID": 545074
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape 1",
+                    "ap1ID": 550392,
+                    "ap2ID": 545074
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 545074
                 }
             ],
             "fileTypeVersion": 1
