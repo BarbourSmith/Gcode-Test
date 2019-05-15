@@ -187,6 +187,27 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 769,
+                    "y": 170,
+                    "uniqueID": 399970,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Gcode",
                     "name": "Gcode",
                     "x": 813,
@@ -244,8 +265,14 @@
                 },
                 {
                     "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 545074,
+                    "ap2ID": 399970
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 545074
+                    "ap1ID": 399970
                 }
             ],
             "fileTypeVersion": 1
