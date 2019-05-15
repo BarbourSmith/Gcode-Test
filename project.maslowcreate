@@ -49,7 +49,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1009,
+                    "x": 1306,
                     "y": 164,
                     "ioValues": []
                 }
@@ -227,7 +227,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1009,
+                    "x": 1306,
                     "y": 164,
                     "ioValues": []
                 }
