@@ -268,11 +268,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 545074,
                     "ap2ID": 399970
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 399970
                 }
             ],
             "fileTypeVersion": 1
