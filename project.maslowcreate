@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 603,
-            "y": 121,
+            "x": 613,
+            "y": 119,
             "uniqueID": 545074,
             "ioValues": [],
             "topLevel": false,
@@ -47,32 +47,35 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 618,
+                    "y": 90,
+                    "uniqueID": 464493,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1242,
-                    "y": 147.5,
+                    "x": 931,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
-            "allConnectors": [
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "2D shape 623943",
-                    "ap1ID": 697585,
-                    "ap2ID": 436588
-                },
-                {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "2D shape 417234",
-                    "ap1ID": 465131,
-                    "ap2ID": 436588
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 436588
-                }
-            ],
+            "allConnectors": [],
             "fileTypeVersion": 1
         },
         {
@@ -145,19 +148,6 @@
                     ]
                 },
                 {
-                    "atomType": "Constant",
-                    "name": "Constant",
-                    "x": 425,
-                    "y": 34,
-                    "uniqueID": 230110,
-                    "ioValues": [
-                        {
-                            "name": "number",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 415,
@@ -181,8 +171,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 603,
-                    "y": 121,
+                    "x": 613,
+                    "y": 119,
                     "uniqueID": 545074,
                     "ioValues": []
                 },
@@ -227,54 +217,12 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1242,
-                    "y": 147.5,
+                    "x": 931,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
-            "allConnectors": [
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 190111,
-                    "ap2ID": 206395
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 411117,
-                    "ap2ID": 543076
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 543076,
-                    "ap2ID": 550392
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Shape 2",
-                    "ap1ID": 206395,
-                    "ap2ID": 545074
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Shape 1",
-                    "ap1ID": 550392,
-                    "ap2ID": 545074
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 545074,
-                    "ap2ID": 399970
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 399970
-                }
-            ],
+            "allConnectors": [],
             "fileTypeVersion": 1
         }
     ]
