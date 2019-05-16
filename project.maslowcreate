@@ -75,7 +75,31 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "2D shape 623943",
+                    "ap1ID": 697585,
+                    "ap2ID": 436588
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "2D shape 417234",
+                    "ap1ID": 465131,
+                    "ap2ID": 436588
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 436588,
+                    "ap2ID": 464493
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 464493
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -222,7 +246,55 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 190111,
+                    "ap2ID": 206395
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 411117,
+                    "ap2ID": 543076
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 543076,
+                    "ap2ID": 550392
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape 2",
+                    "ap1ID": 206395,
+                    "ap2ID": 545074
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape 1",
+                    "ap1ID": 550392,
+                    "ap2ID": 545074
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 545074,
+                    "ap2ID": 399970
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 545074,
+                    "ap2ID": 535974
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 399970
+                }
+            ],
             "fileTypeVersion": 1
         }
     ]
