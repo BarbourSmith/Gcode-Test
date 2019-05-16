@@ -49,8 +49,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 629,
-                    "y": 123,
+                    "x": 698,
+                    "y": 114,
                     "uniqueID": 920069,
                     "ioValues": [
                         {
@@ -93,6 +93,11 @@
                     "ap2Name": "geometry",
                     "ap1ID": 436588,
                     "ap2ID": 920069
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 920069
                 }
             ],
             "fileTypeVersion": 1
@@ -132,7 +137,7 @@
                     "ioValues": [
                         {
                             "name": "radius",
-                            "ioValue": 10
+                            "ioValue": 11
                         },
                         {
                             "name": "max segment size",
@@ -196,23 +201,15 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 747,
-                    "y": 135,
-                    "uniqueID": 399970,
+                    "atomType": "Scale",
+                    "name": "Scale",
+                    "x": 767,
+                    "y": 188,
+                    "uniqueID": 832556,
                     "ioValues": [
                         {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
+                            "name": "multiple",
+                            "ioValue": 2
                         }
                     ]
                 },
@@ -276,18 +273,18 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 545074,
-                    "ap2ID": 399970
+                    "ap2ID": 535974
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 545074,
-                    "ap2ID": 535974
+                    "ap2ID": 832556
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 399970
+                    "ap1ID": 832556
                 }
             ],
             "fileTypeVersion": 1
