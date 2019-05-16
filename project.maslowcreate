@@ -2,7 +2,7 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Sub Molecule",
             "x": 567,
             "y": 105,
             "uniqueID": 545074,
@@ -194,7 +194,7 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Sub Molecule",
                     "x": 567,
                     "y": 105,
                     "uniqueID": 545074,
