@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 568,
-            "y": 102,
+            "x": 567,
+            "y": 105,
             "uniqueID": 545074,
             "ioValues": [],
             "topLevel": false,
@@ -47,23 +47,23 @@
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 618,
-                    "y": 90,
-                    "uniqueID": 464493,
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 629,
+                    "y": 123,
+                    "uniqueID": 920069,
                     "ioValues": [
                         {
-                            "name": "xDist",
+                            "name": "x-axis degrees",
                             "ioValue": 0
                         },
                         {
-                            "name": "yDist",
-                            "ioValue": 10
+                            "name": "y-axis degrees",
+                            "ioValue": 0
                         },
                         {
-                            "name": "zDist",
-                            "ioValue": 0
+                            "name": "z-axis degrees",
+                            "ioValue": 90
                         }
                     ]
                 },
@@ -92,12 +92,7 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 436588,
-                    "ap2ID": 464493
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 464493
+                    "ap2ID": 920069
                 }
             ],
             "fileTypeVersion": 1
@@ -195,8 +190,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 568,
-                    "y": 102,
+                    "x": 567,
+                    "y": 105,
                     "uniqueID": 545074,
                     "ioValues": []
                 },
