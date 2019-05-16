@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 572,
-            "y": 104,
+            "x": 568,
+            "y": 102,
             "uniqueID": 545074,
             "ioValues": [],
             "topLevel": false,
@@ -171,8 +171,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 572,
-                    "y": 104,
+                    "x": 568,
+                    "y": 102,
                     "uniqueID": 545074,
                     "ioValues": []
                 },
@@ -200,8 +200,8 @@
                 {
                     "atomType": "Gcode",
                     "name": "Gcode",
-                    "x": 813,
-                    "y": 70,
+                    "x": 844,
+                    "y": 58,
                     "uniqueID": 535974,
                     "ioValues": [
                         {
